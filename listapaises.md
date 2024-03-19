@@ -1,2 +1,3 @@
 Uruguay
 Argentina
+Paraguay
